@@ -1,0 +1,8 @@
+backend/backend-env
+backend/uploads
+frontend-dashboard/node_modules
+backend/data
+backend/utils/.env
+__pycache__/
+backend/utils/__pycache__
+test.json
